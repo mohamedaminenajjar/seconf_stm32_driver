@@ -47,7 +47,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ## Contact 📧
 
 For any questions or inquiries, please contact:
-- Email: [mohamedamine.najjar@isimg.tn]([https://www.linkedin.com/in/mohamed-amine-najjar-2808a726b/](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mohamedamine.najjar@isimg.tn))
+- Email: [mohamedamine.najjar@isimg.tn](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=mohamedamine.najjar@isimg.tn)
 - LinkedIn: [Mohamed Amine Najjar](https://www.linkedin.com/in/mohamed-amine-najjar-2808a726b/)
 
 ---
