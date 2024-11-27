@@ -1,0 +1,7 @@
+../Core/Src/gpio.c:14:6:GPIO_clock_Enable	10
+../Core/Src/gpio.c:68:6:GPIO_DeInit	10
+../Core/Src/gpio.c:141:6:GPIO_Init	1
+../Core/Src/gpio.c:168:15:GPIO_ReadInputDataBit	2
+../Core/Src/gpio.c:184:20:GPIO_ReadInputData	1
+../Core/Src/gpio.c:199:6:GPIO_WriteBit	1
+../Core/Src/gpio.c:213:6:GPIO_Write	1
